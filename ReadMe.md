@@ -1,5 +1,6 @@
 # Why Ansible ??
 Ansible uses push machanism over chef, pupet tools
+#
 Ansible is agentless
 
 # Prerequests:
